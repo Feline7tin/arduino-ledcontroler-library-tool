@@ -1,3 +1,6 @@
 # arduino-ledcontroler-library-tool
-tools for arduino matrix
+hello, this is a tools for my arduino matrix
+
 my first repo on github
+
+nothing much
